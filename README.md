@@ -1,6 +1,6 @@
-# Scatch - E-commerce Application
+# ShopSphere - E-commerce Application
 
-Scatch is a fully functional e-commerce application designed to provide a seamless online shopping experience. This project is developed using modern web technologies, including EJS for templating, Tailwind CSS for styling, and Node.js for backend operations.
+ShopSphere is a fully functional e-commerce application designed to provide a seamless online shopping experience. This project is developed using modern web technologies, including EJS for templating, Tailwind CSS for styling, and Node.js for backend operations.
 
 ## Features
 
@@ -31,5 +31,5 @@ Scatch is a fully functional e-commerce application designed to provide a seamle
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Scatch.git
-   cd Scatch
+   git clone https://github.com/codekhush/ShopSphere.git
+   cd ShopSphere
